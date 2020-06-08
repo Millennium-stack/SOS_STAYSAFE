@@ -1,6 +1,9 @@
 # SOS_STAYSAFE
 A simple SOS Safety App
 
+![alt text](https://github.com/Millennium-stack/SOS_STAYSAFE/blob/safety/images/app_logo.jpg?raw=true)
+
+
 An android application for your safety. Your Personal Bodyguard!
 
 Technologies Used: - Android Studio, Google Maps API key, Android SQLite Database Package.
@@ -19,4 +22,11 @@ App Permissions:- 1. Send SMS 2. Allow access to the mobile GPS service.
 
 Note: - The app is currently under development any suggestions or commits to the codes or app are welcomed. Thank You!
 
-![alt text](https://github.com/Millennium-stack/SOS_STAYSAFE/blob/safety/images/safety_app1.jpg?raw=true)
+![alt text](https://github.com/Millennium-stack/SOS_STAYSAFE/blob/safety/images/safety_app1.jpg?raw=true) ![alt text](https://github.com/Millennium-stack/SOS_STAYSAFE/blob/safety/images/safety_app2.jpg?raw=true)
+
+![alt text](https://github.com/Millennium-stack/SOS_STAYSAFE/blob/safety/images/safety_app5.jpg?raw=true) ![alt text](https://github.com/Millennium-stack/SOS_STAYSAFE/blob/safety/images/safety_app6.jpg?raw=true)
+
+![alt text](https://github.com/Millennium-stack/SOS_STAYSAFE/blob/safety/images/safety_app7.jpg?raw=true) ![alt text](https://github.com/Millennium-stack/SOS_STAYSAFE/blob/safety/images/safety_app8.jpg?raw=true)
+
+![alt text](https://github.com/Millennium-stack/SOS_STAYSAFE/blob/safety/images/safety_app9.jpg?raw=true) ![alt text](https://github.com/Millennium-stack/SOS_STAYSAFE/blob/safety/images/safety_app10.jpg?raw=true)
+
