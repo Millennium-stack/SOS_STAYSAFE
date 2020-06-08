@@ -8,7 +8,8 @@ An android application for your safety. Your Personal Bodyguard!
 
 Technologies Used: - Android Studio, Google Maps API key, Android SQLite Database Package.
 
-Programming Languages Used: - Java Scripting Language:- XML
+Programming Languages Used: - Java 
+Scripting Language:- XML
 
 The app basically saves or adds up to 5 contacts to the remotely build android SQLite database.
 
