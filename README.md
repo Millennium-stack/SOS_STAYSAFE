@@ -3,10 +3,6 @@ A simple SOS Safety App
 
 An android application for your safety. Your Personal Bodyguard!
 
-You can download the project folder from my GitHub repositories and launch in your android studio
-https://github.com/Millennium-stack/SOS_SAFETY_APP
-or directly download the app from the drive link and try it out.
-
 Technologies Used: - Android Studio, Google Maps API key, Android SQLite Database Package.
 
 Programming Languages Used: - Java Scripting Language:- XML
