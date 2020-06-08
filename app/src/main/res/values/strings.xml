@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SOS_Safety</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="add_contacts">Add Contacts</string>
+    <string name="sos">SOS</string>
+    <string name="fetch_contacts">Fetch Contacts</string>
+    <string name="delete_contact">Delete Contact</string>
+</resources>

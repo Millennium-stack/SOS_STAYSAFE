@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:autofillHints="enter"
+        android:hint="@string/enter_name"
+        android:inputType="text"
+        android:id="@+id/name"
+        android:layout_above="@id/phone_number"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"/>
+
+    <EditText
+        android:id="@+id/phone_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:autofillHints="enter"
+        android:hint="@string/enter_phone_number"
+        android:inputType="phone"
+        android:layout_above="@id/add_contacts"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/add_contacts"
+        android:text="@string/add_contacts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@id/sos_btn"
+        android:layout_marginBottom="50dp"
+        android:onClick="AddContacts"/>
+
+    <Button
+        android:id="@+id/sos_btn"
+        android:text="@string/sos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"/>
+
+    <Button
+        android:id="@+id/fetchBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fetch_contacts"
+        android:layout_below="@id/sos_btn"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"/>
+
+    <EditText
+        android:id="@+id/delete_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:autofillHints="enter"
+        android:hint="@string/enter_phone_number"
+        android:inputType="phone"
+        android:layout_below="@id/fetchBtn"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/delete_contacts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/delete_contact"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/delete_number"
+        android:layout_marginTop="10dp"
+        android:onClick="DeleteContacts"/>
+
+</RelativeLayout>
