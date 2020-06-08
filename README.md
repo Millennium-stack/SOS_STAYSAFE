@@ -19,3 +19,4 @@ App Permissions:- 1. Send SMS 2. Allow access to the mobile GPS service.
 
 Note: - The app is currently under development any suggestions or commits to the codes or app are welcomed. Thank You!
 
+![alt text](https://github.com/Millennium-stack/SOS_STAYSAFE/blob/safety/images/safety_app1.jpg?raw=true)
