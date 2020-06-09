@@ -52,8 +52,12 @@ public class MainActivity extends AppCompatActivity implements LocationListener
         fetchBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if(FetchContacts()!=null)
+                if(FetchContacts()!=null) {
+
+                    FetchContacts fetchContacts = new FetchContacts();
+                    fetchContacts.setDb(db);
                     DisplayContacts();
+                }
                 else
                     Toast.makeText(getApplicationContext(), "No contacts added", Toast.LENGTH_SHORT).show();
             }
@@ -151,9 +155,6 @@ public class MainActivity extends AppCompatActivity implements LocationListener
     public void DisplayContacts()
     {
         Intent intent = new Intent(this, FetchContacts.class);
-
-        FetchContacts fetchContacts = new FetchContacts();
-        fetchContacts.setDb(db);
 
         startActivity(intent);
     }
