@@ -3,6 +3,7 @@ A simple SOS Safety App
 
 ![alt text](https://github.com/Millennium-stack/SOS_STAYSAFE/blob/safety/images/app_logo.jpg?raw=true)
 
+https://drive.google.com/file/d/1GOLNuZMmWjXNRklRZB64p5rdcWafzArx/view
 
 An android application for your safety. Your Personal Bodyguard!
 
@@ -20,8 +21,6 @@ Or delete a contact by providing a saved contact to the edit text box.
 At pressing the SOS button, a Help text along with the latitude and longitudes of the cell is texted to our saved contacts in the app database.
 
 App Permissions:- 1. Send SMS 2. Allow access to the mobile GPS service.
-
-Note: - The app is currently under development any suggestions or commits to the codes or app are welcomed. Thank You!
 
 ![alt text](https://github.com/Millennium-stack/SOS_STAYSAFE/blob/safety/images/safety_app1.jpg?raw=true) ![alt text](https://github.com/Millennium-stack/SOS_STAYSAFE/blob/safety/images/safety_app2.jpg?raw=true)
 
